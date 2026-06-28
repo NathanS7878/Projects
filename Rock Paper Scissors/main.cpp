@@ -78,7 +78,8 @@ int main()
     int choice;
     choice = getInput();
 
-    compareChoices(choice, generateRandom());
+    compareChoices(choice, generateRandom
+        ());
 
     
 
